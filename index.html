@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" type="image/x-icon" />
+    <title>Twitter</title>
+    <!-- FontAwesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"/>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    
+    <!-- Logo -->
+    <header>
+        <img src="/images/twitter-logo.png" alt="Twitter">
+    </header>
+    <!-- Twitter Card Başlangıç -->
+    <div class="wrapper">
+        <div class="user">
+            <img src="https://avatars.githubusercontent.com/u/129687853?v=4" alt="">
+        <select name="" id="options">
+            <option value="">Herkese Açık</option>
+            <option value="">Yakın Arkadaşlar</option>
+        </select>
+        </div>
+      <!-- Card Üst Kısım Başlangıç -->
+      <div class="input-box">
+        <div class="tweet-area">
+          <span class="placeholder">Neler Oluyor?</span>
+          <div contenteditable="true" spellcheck="false" class="input editable"></div>
+          <div contenteditable="true" spellcheck="false" class="input readonly"></div>
+        </div>
+
+        <div class="privacy">
+          <i class="fa-solid fa-earth-americas"></i>
+          <span>Herkes Yanıtlayabilir</span>
+        </div>
+      </div>
+      <!-- Card Üst Kısım Btiş -->
+
+      <!-- Card Alt kısım-->
+      <div class="bottom">
+        <ul>
+          <li><i class="fa-solid fa-file-image"></i></li>
+          <li><i class="fa-solid fa-location-dot"></i></li>
+          <li>  <i class="fa-solid fa-face-smile"></i></li>
+          <li><i class="fa-solid fa-user"></i></li>
+        </ul>
+        <div class="right">
+          <span id="counter">3</span>
+          <button class="button ">Tweet</button>
+        </div>
+      </div>
+      <!-- Card Alt Kısım -->
+    </div>
+    <!-- Twitter Card Bitiş -->
+
+    <!-- Tweet Container -->
+<div class="tweetsContainer">
+
+</div>
+    <!-- Tweet Container -->
+    <!-- Script Bağlantı -->
+    <script src="./main.js"></script>
+  </body>
+</html>
