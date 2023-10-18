@@ -1,10 +1,17 @@
+# Javascript ile Twitter Kartları Oluşturma
+
+# Kullanılan Teknolojiler
+- JS
+- CSS
+- HTML
+
+# Yardımcı Kaynaklar
+- Font Awesome (İkonlar)
+- Google Fonts (Yazı Stili)
+
 # Road-Map
 
-- HTML ile iskelet oluşturulur. 
-
-- CSS ile şekillendirilir.
-
-- Tweet için tıklandığında ve dışarıya tıklanınca placeholder renk değiştirir. (9 - 14 arası main.js)
+- Tweet için tıklandığında ve dışarıya tıklanınca placeholder renk değiştirir. 
 
 - Metin alanına giriş yapıldığında placeholder kaybolur.
 
