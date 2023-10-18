@@ -13,7 +13,8 @@ tweetlemenizi önlemektedir.
 - Google Fonts (Yazı Stili)
 
 # Ekran Görüntüleri
-![twt-1](https://github.com/EyupSaltukB/Twitter-Cards/assets/129687853/49666eff-242b-4d1e-9cbc-0eb520550
+
+![twt-1](https://github.com/EyupSaltukB/Twitter-Cards/assets/129687853/49666eff-242b-4d1e-9cbc-0eb520550)
 
 ![twt-2](https://github.com/EyupSaltukB/Twitter-Cards/assets/129687853/eff57abf-361b-440a-bae4-6e02fa722e67)
 79e)
