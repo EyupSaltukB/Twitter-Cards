@@ -1,4 +1,4 @@
-# Javascript ile Twitter Kartları Oluşturma
+# Twitter Kartları
 Bu projemde tweet gönderme paneli oluşturup tweetlerimi listeledim.
 Bu panel 30 karaktere kadar müsaade etmekte olup 30+ karakter sonrasında sizi uyarmakta ve 
 tweetlemenizi önlemektedir.
